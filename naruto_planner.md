@@ -6,7 +6,7 @@
 
 ### Bonus Typing
 
-### Combat
+### Combat+
 #### Death, Dying && Healing
 #### Envornment && Hazards
 #### Types of Actions
