@@ -57,6 +57,8 @@
 
 ### Interact with Elevation
 
+## Compendium Information
+
 ### Races
 
 ### Technique
